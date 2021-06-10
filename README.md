@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SteveC-SoC
-- 👀 I’m interested in all kind of things, I am at the start of my coding journey
+- 👀 I’m interested in....... all kind of things, I am at the start of my coding journey
 - 🌱 I’m currently continuing to learn, having completed School of Code Chort 5 April 2021
 
 
