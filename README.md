@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @SteveC-SoC
-- 👀 I’m interested in....... all kind of things, I am at the start of my coding journey
-- 🌱 I’m currently working on personal repos, learning and putting this into practice, why not have a look 😁
 
 
 <!---
